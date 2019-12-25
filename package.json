@@ -1,0 +1,15 @@
+{
+  "name": "ParadoxGen",
+  "version": "1.0.0",
+  "description": "This is a tutorial on how to create a gen bot, this code is open source and free for anyone to use. Enjoy making your gen bot. If there are any problems contact me on discord: Aster#2763",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aster",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {}
+}
